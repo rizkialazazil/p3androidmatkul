@@ -1,0 +1,24 @@
+{
+  "DATA_NEWS": [
+    {
+      "title_news": "Mangga",
+      "link_news": "<p>Pohon mangga adalah tanaman tropis yang menghasilkan buah mangga yang kaya akan vitamin C dan A. Buah ini sangat populer karena rasanya yang manis dan segar.</p>",
+      "image_link": "file:///android_asset/p31.jpg"
+    },
+    {
+      "title_news": "Apel",
+      "link_news": "<p>Apel adalah buah yang kaya serat dan antioksidan. Biasanya tumbuh di daerah beriklim sedang dan sangat baik untuk kesehatan jantung.</p>",
+      "image_link": "file:///android_asset/s.jpg"
+    },
+    {
+      "title_news": "Strawberry",
+      "link_news": "<p>Strawberry merupakan buah beri yang berwarna merah cerah, mengandung vitamin C tinggi dan sering digunakan dalam makanan penutup dan minuman segar.</p>",
+      "image_link": "file:///android_asset/a.jpg"
+    },
+    {
+      "title_news": "Jeruk",
+      "link_news": "<p>Jeruk adalah buah sitrus yang sangat terkenal dengan kandungan vitamin C-nya. Buah ini dapat dimakan langsung atau dijadikan jus segar yang menyegarkan.</p>",
+      "image_link": "file:///android_asset/p33.png"
+    }
+  ]
+}
